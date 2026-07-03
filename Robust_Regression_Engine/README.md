@@ -83,7 +83,7 @@ Main features:
 
 ## Summery
 
-![](./screenshots/project_summary.png)
+![](./Summary.png)
 
 ## 🏆 Best Model
 
