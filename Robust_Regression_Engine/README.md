@@ -62,37 +62,28 @@ Main features:
 
 ## Dataset Overview
 
-```text
-screenshots/Data(2).png
-```
+![](./screenshots/Data.png)
 
 ## Model Comparison
 
-```text
-screenshots/model_comparison(2).png
-```
+![](./screenshots/model_comparison.png)
 
 ## Ridge vs Lasso
 
-```text
-screenshots/ridge_vs_lasso(1).png
-```
+![](./screenshots/ridge_vs_lasso.png)
+
 
 ## Decision Tree vs Random Forest
 
-```text
-screenshots/Tree(1).png
-```
+![](./screenshots/Tree.png)
 
 ## Cross Validation
 
-```text
-screenshots/cv_comparison(1).png
-```
+![](./screenshots/cv_comparison.png)
 
-> Replace the text blocks above with markdown image tags after placing the images in a `screenshots` folder:
->
-> `![](screenshots/Data(2).png)`
+## Summery
+
+![](./screenshots/Data.png)
 
 ## 🏆 Best Model
 
